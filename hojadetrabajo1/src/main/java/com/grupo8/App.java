@@ -44,5 +44,6 @@ public class App
 
             }
         }
+        teclado.close();
     }
 }

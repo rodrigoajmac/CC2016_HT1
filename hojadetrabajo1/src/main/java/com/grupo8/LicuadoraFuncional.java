@@ -63,7 +63,7 @@ public class LicuadoraFuncional implements Licuadora{
     public boolean estaLlena(){
         boolean llena = false;
         if(volumenactual == capacidadMaxima){
-            boolean llena = true;
+            llena = true;
         }
         return llena;
     }
