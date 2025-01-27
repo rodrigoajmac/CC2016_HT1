@@ -1,6 +1,9 @@
 package com.grupo8;
 
 public interface Licuadora {
+    /**
+     * Creación de la interfaz según lo acordado en clase
+     */
     void encender();
     void apagar();
     boolean estaEncendida();
